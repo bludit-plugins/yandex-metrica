@@ -1,4 +1,4 @@
-# Yandex Metrica
+# Yandex Metrica for [Bludit CMS](https://www.bludit.com)
 Yandex Metrica is a web analytics tool that helps you get visual reports and track traffic sources.
 
 To use this plugin you need an account in <a href="https://metrica.yandex.com">Yandex Metrica</a>.
