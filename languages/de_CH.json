@@ -1,0 +1,10 @@
+{
+	"plugin-data":
+	{
+		"name": "Yandex Metrica",
+		"description": "Yandex Metrica ist eine Werkzeug für die Erfassung und Analyse des Besucherverhaltens. Für die Verwendung des Plugins wird ein Konto bei <a href=\"https://metrica.yandex.com\">Yandex Metrica</a> benötigt."
+	},
+	"yandex-metrica-tag-number": "Yandex Metrica Tag-Nummer",
+	"enable-session-replay": "Session Replay aktivieren",
+	"session-replay-records-the-actions-of-site-users": "Die Funktion Session Replay zeichnet alle Aktionen der Besucher der Website auf, auch den Inhalt von Formularen. Verdeckte Eingaben werden durch Sternchen ersetzt."
+}
